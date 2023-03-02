@@ -1,0 +1,20 @@
+.container {
+  width: 90%;
+  margin: 0 auto;
+  padding: 0 15px;
+  height: 90%;
+}
+
+body {
+  background-color: #007575;
+  height: 90%;
+}
+
+h1 {
+  color: #fff;
+  font-size: 2.5em;
+  font-weight: 300;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
